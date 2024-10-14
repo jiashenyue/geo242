@@ -15,3 +15,7 @@ Shenyue Jia
 
 - [Understanding map coordinates](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/georeference-miami-univ-campus-map.ipynb)
+
+## Guides
+
+- [Create a GitHub repository and add Google Colab notebooks](https://github.com/jiashenyue/geo242/blob/main/guides/create-github-repository-add-notebooks.ipynb)
