@@ -23,3 +23,7 @@ Shenyue Jia
 ## Guides
 
 - [Create a GitHub repository and add Google Colab notebooks](https://github.com/jiashenyue/geo242/blob/main/guides/create-github-repository-add-notebooks.ipynb)
+
+## Web-based Mapping
+
+- [Replicating John Snow's London cholera map](https://www.arcgis.com/apps/instant/sidebar/index.html?appid=18b0e940adde49b198f2a93454a15351)
